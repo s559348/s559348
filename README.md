@@ -9,7 +9,7 @@ hai
 this is Ashok Kumar Swarna
   yes i came frome *INDIA*
     curentely i'm staying in **usa**Missouri
-      presantly my **master** in *North West Missouri State University
+      presently my **master** in *North West Missouri State University
         i done my bachelor's degree * Chalapathi Institute of Engineering and Technology *
         
       -->
